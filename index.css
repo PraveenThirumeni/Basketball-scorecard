@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    background-color: #4C1D95;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.heading {
+    width: 149px;
+    height: 36px;   
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    color: #EEEEEE;
+    margin-top: 70px;
+    margin-bottom: none;
+}
+
+.score-card {
+    width: 155px;
+    height: 120px;
+    background: #080001;
+    border-radius: 5px;
+    margin-top: none;
+}
+
+.score {
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    text-align: center;
+    color: #F94F6D;
+
+}
+
+#newGame {
+    background: #C4B5FD;
+    color: #4C1D95;
+    font-size: 30px;
+
+}
+
+.btn {
+    width: 45px;
+    height: 45px;
+    font-family: 'Cursed Timer ULiL';
+    left: 82px;
+    top: 271px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background-color: #4C1D95;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
